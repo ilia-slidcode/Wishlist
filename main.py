@@ -27,6 +27,7 @@ while True:
         reposetory.remove(choice)
         
     elif operation=="3":
+        print("this is your list: ")
         reposetory.show()
         
     else:
